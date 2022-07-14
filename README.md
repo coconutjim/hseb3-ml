@@ -1,5 +1,5 @@
 # hseb3-ml
-2014\. Study projects. Implementation of Machine Learning algorithms in Python.
+2015\. Study projects. Implementation of Machine Learning algorithms in Python.
 ## Features
 1. Simple statistics
 2. K-nearest neighbors algorithm
